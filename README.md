@@ -1,9 +1,9 @@
 # Template for a node js server
 
 ## Commands
-`yarn install` - install dependencies
-`yarn run start` - run in development mode with hot reload
-`yarn run build` - build project (using `build` directory default)
+`yarn install` - install dependencies  
+`yarn run start` - run in development mode with hot reload  
+`yarn run build` - build project (using `build` directory default)  
 
 ## Stack
 - package manager: [yarn](https://yarnpkg.com/)
