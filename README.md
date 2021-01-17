@@ -21,4 +21,4 @@
     - git: [.gitignore](./.gitignore)
     - typescript: [tsconfig.json](./tsconfig.json)
     - other: [config](./config)
-- build output: `build` (.git ignored)
+- build output: `build` (git ignored)
